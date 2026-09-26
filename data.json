@@ -129,7 +129,7 @@
     ]
   },
   "26_9 澳洲 S1 1100 R10": {
-    "headers": ["Col1", "Col2", "Column1", "Column2", "Column3", "Column4", "Column5", "Column6", "Column7", "Column8", "Column9"],
+    "headers": ["Col1", "Col2", "馬號", "馬名", "檔位", "負磅", "騎師", "練馬師", "獨贏", "位置", "國際評分", "5次近績"],
     "rows": [
 
     ]
